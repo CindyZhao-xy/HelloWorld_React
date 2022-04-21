@@ -2,7 +2,7 @@
  * @Author: cindy.zhao 
  * @Date: 2022-04-12 14:35:40 
  * @Last Modified by: cindy.zhao
- * @Last Modified time: 2022-04-15 14:52:42
+ * @Last Modified time: 2022-04-15 20:32:21
  */
 function App02(){
     return (
@@ -17,3 +17,4 @@ function App02(){
 }
 // stateless component
 export default App02
+

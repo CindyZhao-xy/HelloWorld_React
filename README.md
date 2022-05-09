@@ -1,2 +1,3 @@
 # HelloWorld_React
-My first React App
+My React Learning Records
+
